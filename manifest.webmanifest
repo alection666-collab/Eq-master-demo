@@ -1,6 +1,6 @@
 {
- "name": "EQ MASTER Demo",
- "short_name": "EQ Demo",
+ "name": "EQ-IQ Demo",
+ "short_name": "EQ-IQ Demo",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
